@@ -3,6 +3,8 @@
 
 # Parkinson's Disease Predictive Model
 
+Small Explanation: https://www.canva.com/design/DAFU3-h1l9o/jT0M4g98l33qBG-wpfzT1w/view?utm_content=DAFU3-h1l9o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 Luis Alba Molina - Data Analyst 2022
 
 # What is it?
